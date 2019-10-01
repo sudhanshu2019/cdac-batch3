@@ -1,0 +1,6 @@
+This is a test code.
+#include<studio.h>
+int main()
+{
+printf("Hello\n");
+}
